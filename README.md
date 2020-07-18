@@ -1,2 +1,2 @@
-# fuel-provider
+# Easy Petrol
 Final Year Project
